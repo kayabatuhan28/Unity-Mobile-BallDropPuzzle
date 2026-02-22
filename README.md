@@ -1,6 +1,6 @@
 # Unity-Mobile-BallDropPuzzle
 
-- Physics-based puzzle gameplay
+- Physics based puzzle gameplay
 - Interactive environmental elements (bombs, moving platforms)
 - Rope cutting mechanic influencing player movement
 - Collectible star system
